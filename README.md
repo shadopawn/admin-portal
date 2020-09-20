@@ -6,9 +6,10 @@ Put a very high-level summary of the project.
 
 ## **Team Members**
 
-- Joe Black
-- Joe Pesci
-- Joe Dalton
+- Brian Ringer
+- Cody Miner
+- Daniel Litt
+- Will English
 
 ## **Client Partner Information**
 
