@@ -4,7 +4,7 @@
 Brian, Cody, Daniel, Will, and Kyle (the client).
 
 ## Files
-Minutes.md - This file outlines most of the topics talked and information clarified in our meeting with the client on 9/29/2020. It also go into detail about when it started, ended, and who partcipated.
+Minutes.md - This file outlines most of the topics talked about and information clarified in our meeting with the client on 9/29/2020. It also go into detail about when it started, ended, and who partcipated.
 
 Will_English_Notes.md - These are the notes taken by Will English during the meeting
 
