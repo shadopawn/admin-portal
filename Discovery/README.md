@@ -12,4 +12,4 @@ Daniel_Litt_notes.md - These are the notes taken by Daniel Litt during the meeti
 
 Cody_Mineer_Notes_1-4.jpg - These are the notes taken by Cody Mine during the meeting
 
-Meeting_Screenshot.png - This is a screenshot of the discovery meeting that took place
+Meeting_Screenshot_1-4.png - These are screenshots of the discovery meeting that took place
