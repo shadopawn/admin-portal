@@ -29,7 +29,7 @@ Will with notes from all other group members.
   - His new company created to help train officials
   - Created a game within Unity and Kinect SDK that will test referees and help them learn in the process
   - They have modules with many video in each
-  - It is upload to Steam 
+  - It will be upload to Steam 
 - Where we come in
   - Video/lesson editor
     - This is the main priorty of the project, a lesson editor
