@@ -1,5 +1,5 @@
 
-![Domain Model](/DomainModel.png)
+![Domain Model](/Design/DomainModel.png)
 
 React - This  front end class will have two Lists, Videos and Lessons. As well as methods to add/remove videos, move videos forward or back in the lesson list, and upload/download lessons to/from the Firebase Database
 
