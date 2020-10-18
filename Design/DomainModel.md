@@ -1,5 +1,5 @@
 
-https://drive.google.com/file/d/1jZvkIUM6WWp2VyhterbmE-73Zy5uCRak/view?usp=sharing
+![Domain Model](/DomainModel.png)
 
 React - This  front end class will have two Lists, Videos and Lessons. As well as methods to add/remove videos, move videos forward or back in the lesson list, and upload/download lessons to/from the Firebase Database
 
