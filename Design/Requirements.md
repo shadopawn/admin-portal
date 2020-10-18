@@ -1,5 +1,5 @@
 # Functional Requirements
-## Web App
+## Web App Requirements
 - FR1: Web App can upload videos to the database -- HIGH -- BR1
 - FR2: Web App can upload “lessons” (JSON) to the database -- HIGH -- BR1
 - FR3: Admin can add videos through the Web App into the database -- HIGH -- BR1
@@ -7,7 +7,7 @@
 - FR5: Admin can log into the Web App -- MEDIUM -- BR1
 - FR6: Admin can view tracked analytics from users -- LOW -- BR3
 
-## Game Application
+## Game Application Requirements
 - FR7: Users can create an account for the Game Application -- MEDIUM -- BR3
 - FR8: Users can log into the Game Application locally -- MEDIUM -- BR3
 - FR9: Game Application can download videos -- HIGH -- BR2
