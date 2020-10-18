@@ -3,7 +3,11 @@
 - User
 
 # Use Cases
-- UC1: Admin uploads video -- We need this use case in order for new video to be added to the application. Without adding new videos, they can’t create new lessons. The lessons are dependent on the videos and he wants to be able to make more lessons. -- The actor at play is the “admin” -- The admin will make sure he is logged in as an admin. They will then go to the lesson making portal. This page will allow the admin to create lessons. Because videos are required to make lessons, they will be able to see the videos they have uploaded to the database. If the video they need is not there, they can click a button, select a file, then upload it to the database. The page will then display all the videos including the newly uploaded one. -- BR1
+- UC1: Admin uploads video 
+-- We need this use case in order for new video to be added to the application. Without adding new videos, they can’t create new lessons. The lessons are dependent on the videos and he wants to be able to make more lessons. 
+-- The actor at play is the “admin” 
+-- The admin will make sure he is logged in as an admin. They will then go to the lesson making portal. This page will allow the admin to create lessons. Because videos are required to make lessons, they will be able to see the videos they have uploaded to the database. If the video they need is not there, they can click a button, select a file, then upload it to the database. The page will then display all the videos including the newly uploaded one. 
+-- BR1
 
 - UC2: Admin puts videos into a lesson -- We need this use case for the lesson creating function. The admin wants to be able to create lessons, and that involves stringing videos together to create a whole lesson. Without the ability to put the video in a certain order, there would be no way to create a coherent lesson. -- The actor at play is the “admin” --  The admin will make sure he is logged in as an admin. They will then go to the lesson making portal. This page will allow the admin to create lessons. Once here, the admin will select from a list of videos that have already been uploaded. The admin then can list the videos out in the correct order. -- BR1
 
