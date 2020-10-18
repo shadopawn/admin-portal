@@ -1,16 +1,16 @@
 # Functional Requirements
 ## Web App
-- FR1: Web App can upload videos to the database (high) 
-- FR2: Web App can upload “lessons” (JSON) to the database (high)
-- FR3: Admin can add videos through the Web App into the database (high)
-- FR4: Admin can order videos through the Web app into a “lesson”(JSON) (high)
-- FR5: Admin can log into the Web App (med)
-- FR6: Admin can view tracked analytics from users (low)
+- FR1: Web App can upload videos to the database -- high -- 
+- FR2: Web App can upload “lessons” (JSON) to the database -- high --
+- FR3: Admin can add videos through the Web App into the database -- high --
+- FR4: Admin can order videos through the Web app into a “lesson”(JSON) -- high --
+- FR5: Admin can log into the Web App -- med --
+- FR6: Admin can view tracked analytics from users -- low --
 
 ## Game Application
-- FR7: Users can create an account for the Game Application (med)
-- FR8: Users can log into the Game Application locally (med)
-- FR9: Game Application can download videos (high)
+- FR7: Users can create an account for the Game Application -- med --
+- FR8: Users can log into the Game Application locally -- med -- 
+- FR9: Game Application can download videos -- high --
 - FR10: Game Application can download “lessons” (JSON) from the database (high)
 - FR11: Users can download videos to Game Application (high)
 - FR12: Users can download “lessons” (JSON) to Game Application (high)
@@ -24,3 +24,6 @@
 
 
 # Non-functional Requirements
+- PER1: Video quality 1080p and 4k and individual videos capped at 500 Mb (should not exceed 2 min) (med)
+- PER2: Video can be uploaded and processed in 15 minutes (high)
+- USE1: Training should take less than 30min, all in-app.
