@@ -1,9 +1,9 @@
 # Business Requirements
-- BR1: We need a system that can create lessons for the official training game -- This is a business requirement because the client stated that he wanted a way to create video lessons for the official training game.
+- BR1: We need a system that can create lessons for the official training game -- This is a business requirement because the client stated that he wanted a way to create video lessons for the official training game. They need a way to create lessons, so they can add more to the game. The more lessons, the more people they can attract to the game. Adding more lessons can broaden the scope of what sports can be taught in the application. 
  
-- BR2: We would like to be able to get lessons in the official training game without going through a developer -- For this business requirement the client told us that he wants a method of uploading new lessons to the game without the need for a developer.
+- BR2: We would like to be able to get lessons in the official training game without going through a developer -- For this business requirement the client told us that he wants a method of uploading new lessons to the game without the need for a developer. The client is not a developer. He needs a way to not only make the lessons, but put them into Unity without the help of a developer. This will allow more lessons to be made in a streamline process. 
 
-- BR3: We want to get analytics based on the users of the training software -- The client expressed interest in getting information out of the game and displaying it on the web application.
+- BR3: We want to get analytics based on the users of the training software -- The client expressed interest in getting information out of the game and displaying it on the web application. If they are able to extract information from the users, they may be able to see trends. These can affect and influence their business decisions. 
 
-- BR4: We want to gamify the training software in order to engage users -- The client stated he wanted to make the official training game more game-like by adding things like high scores or achievements.
+- BR4: We want to gamify the training software in order to engage users -- The client stated he wanted to make the official training game more game-like by adding things like high scores or achievements. This would help keep the users that have already bought the game. This may also attract more users or influence more users to buy new packages with more achievements and lessons. 
 
