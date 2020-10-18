@@ -1,5 +1,5 @@
 
-![Domain Model](/Design/Domain_Model.png)
+![Domain Model](/Design/Domain Model.png)
 
 - Web App - This  front end class will have two Lists, Videos and Lessons. As well as methods to add/remove videos, move videos forward or back in the lesson list, and upload/download lessons to/from the Database
 
