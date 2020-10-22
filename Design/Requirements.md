@@ -27,4 +27,4 @@
 # Non-functional Requirements
 - PER1: Video quality 1080p and 4k and individual videos capped at 500 Mb (should not exceed 2 min) -- MEDIUM -- BR1
 - PER2: Video can be uploaded and processed in 15 minutes -- HIGH -- BR1
-- USE1: Training should take less than 30min, all in-app -- MEDIUM -- BR1
+- USE1: Training should take less than 30min, all in-app -- LOW -- BR1
