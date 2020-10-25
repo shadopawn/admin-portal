@@ -47,5 +47,11 @@
 - UC8: Admin can analyze user data 
   - We need this use case because the admins need some way of analyzing the user data. Even if the data is collected, if there is no way to see it or visualize it, then there is no point collecting the data. 
   - The actor at play is the “admin” 
-  - The admin will log into the react app. The react application will have a data visualization page. From there, the admin can visualize and see the data in many different ways. 
+  - The admin will log into the web app. The web application will have a data visualization page. From there, the admin can visualize and see the data in many different ways. 
   - BR3
+
+- UC9: Admin can add “calls” to each video 
+  - We need this use case becuase the admins need some way of leeting the game application know what the correct call is for each video. Each video will have a quizz on it with different options for what the "call" could be. If the admin wants to create lessons, they need to be able to add in 2 wrong calls and 1 right call. This will allow them to do so.
+  - The actor at play is the "admin"
+  - The admin will log into the web app. After they have uploaded a video, they will have the option to attach 3 calls to the video and mark which one the correct call is. 
+  - BR1
