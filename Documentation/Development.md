@@ -72,4 +72,26 @@
 - Clone this repository first via the command below:
   - `git clone https://github.com/robbietaco/ref-reps.git`
 
-## Opening RefRps with the Unity Hub
+## Opening RefReps with the Unity Hub
+
+- Sign in or create a unity account and activate a license the personal license works for this project.
+![testsPass](images/UnityHubLogin.PNG)
+- Next press the back arrow next to prefrences to go to the projects.
+![testsPass](images/UnityHubNoProjects.PNG)
+- click add and navigate to the folder where the repository was cloned and pick the folder named ref-reps-unity-project.
+- In the unity hub click on the yellow triangle next to the project and install that version of unity.
+![testsPass](images/UnityHubInstallUnity.PNG)
+- After installing the unity version the project can be opend by clicking on it.
+
+## RefReps file structure
+![testsPass](images/UnityFileStructure.PNG)
+
+## RefReps run tests
+
+- Open the test window by navigating to window general then test runner.
+![testsPass](images/UnityTestDropdown.PNG)
+- The test window look like the following
+![testsPass](images/UnityTestRunner.PNG)
+- To run tests click on a test or a catagory and press run selected or run all.
+- Click on EditMode or PlayMode to see the test for each enviornment.
+- Green checks show passed tests and red crosses show failed tests.
