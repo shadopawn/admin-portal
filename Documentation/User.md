@@ -36,3 +36,13 @@
 
 # RefReps User Manual
 ## Download Video
+- Open the project using the unity editor.
+- Once the editor is open, find the navigation bar at the top.
+- Click on “tools”.
+
+- Click “Download Lesson Videos”.
+
+- Click “Download”.
+
+- The test video should now be located at “Assets/VideoFiles/test.mp4” in the project directory.
+
