@@ -4,6 +4,12 @@
 
 ## Folder Structure
 ![folder](images/folder.PNG)
+- The main folder where most commands will be done is the admin-portal-web-app
+- The src folder contains JavaScript, HTML, and CSS files used by the React Framework
+- The __test__ folder holds the test for each component
+- The component folder holds all the components used with app and each other
+- The css folder contains the CSS files used
+- The public folder holds the images used throughout the project
 
 ## Installing Prerequisites
 
