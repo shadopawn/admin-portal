@@ -20,7 +20,7 @@
 - You will noticed the navigation bar has changed the “Login Page” with a “Logout” link
 - Click the “Logout” navigation to logout
 
-![logout](images/logout.PNG)
+![logout](images/logout.png)
 
 ## Uploading Videos
 - Ensure you are logged in as an Admin. To see how, view the Login section.
