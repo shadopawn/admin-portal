@@ -71,3 +71,5 @@
 
 - Clone this repository first via the command below:
   - `git clone https://github.com/robbietaco/ref-reps.git`
+
+## Opening RefRps with the Unity Hub
