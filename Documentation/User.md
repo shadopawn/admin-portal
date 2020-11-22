@@ -40,9 +40,11 @@
 - Once the editor is open, find the navigation bar at the top.
 - Click on “tools”.
 
+![tools](images/tools.png)
 - Click “Download Lesson Videos”.
 
+![DownloadLessonVideos](images/DownloadLessonVideos.png)
 - Click “Download”.
 
+![DownloadLessonWindow](images/DownloadLessonWindow.png)
 - The test video should now be located at “Assets/VideoFiles/test.mp4” in the project directory.
-
