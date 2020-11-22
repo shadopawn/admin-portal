@@ -3,7 +3,7 @@
 
 ## Navigation
 - Use the navigation bar at the top of the application to view the different pages
-![nav](images/nav.png)
+![nav](images/nav.PNG)
 - Click on “Lessons Editor” to be taken to the Editor where you will be able to build lessons
 - Click on “Analytics Dashboard” to be taken to the dashboard where you'll view analytics 
 - Click on “Login Page” to be taken to the page where you’ll be able to log in as an Admin
