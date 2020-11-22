@@ -3,7 +3,7 @@
 - This documentation is used to explain how to deploy and maintain a running system of our project
 
 ## Folder Structure
-![folders](images/folders.PNG)
+![folder](images/folder.PNG)
 
 ## Installing Prerequisites
 
