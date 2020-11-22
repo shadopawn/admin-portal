@@ -10,6 +10,7 @@
 
 ## Login
 - Click on “Login Page”
+
 ![login](images/login.PNG)
 - Once here, you’ll see an input field for both a username and password. Enter both your Admin username and respective password.
 - Once you have the correct username and password input, click Log in to be taken to your previous page logged in as an Admin.
@@ -18,11 +19,13 @@
 - Ensure you are logged in as an Admin. To see how, view the Login section.
 - You will noticed the navigation bar has changed the “Login Page” with a “Logout” link
 - Click the “Logout” navigation to logout
+
 ![logout](images/logout.PNG)
 
 ## Uploading Videos
 - Ensure you are logged in as an Admin. To see how, view the Login section.
 - Click on “Lessons Editor” 
+
 ![lesson](images/lesson.PNG)
 - You will be greeted with a progress bar and button name “Choose File”
 - Click on the “Choose File” button when you are ready to upload
