@@ -55,4 +55,19 @@
 
 
 # Replicating RefReps Environment 
+## Installing Prerequisites
 
+- Install Unity Hub
+  - https://unity3d.com/get-unity/download
+  - For more help: https://docs.unity3d.com/Manual/GettingStartedInstallingHub.html 
+- Install Git
+  - https://git-scm.com/downloads 
+  - Test that Git commands are available via command line
+- Install Git Large File Storage
+  - https://git-lfs.github.com/
+  - Activate Git LFS by running `git lfs install`
+
+## Clone Repos
+
+- Clone this repository first via the command below:
+  - `git clone https://github.com/robbietaco/ref-reps.git`
