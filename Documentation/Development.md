@@ -90,7 +90,9 @@
 
 - Open the test window by navigating to window general then test runner.
 ![testsPass](images/UnityTestDropdown.png)
+
 - The test window look like the following
+
 ![testsPass](images/UnityTestRunner.PNG)
 - To run tests click on a test or a catagory and press run selected or run all.
 - Click on EditMode or PlayMode to see the test for each enviornment.
