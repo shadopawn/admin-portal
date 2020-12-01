@@ -1,0 +1,18 @@
+{
+	"lessonPacks": [
+		{
+			"name": "Football 1",
+			"lessons": [
+				{
+					"name": "False Start",
+					"callVideo": "I am a url",
+					"callTimeStamp": 36.7,
+					"trueCall": "I am some representation of a call",
+					"falseCall1": "I am some representation of a call",
+					"falseCall2": "I am some representation of a call",
+					"explanationVideo": "I am a url",
+				}
+			]
+		}
+	]
+}
