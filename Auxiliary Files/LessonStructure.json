@@ -6,7 +6,35 @@
 				{
 					"name": "False Start",
 					"callVideo": "I am a url",
-					"callTimeStamp": 36.7,
+					"trueCall": "I am some representation of a call",
+					"falseCall1": "I am some representation of a call",
+					"falseCall2": "I am some representation of a call",
+					"explanationVideo": "I am a url",
+				},
+				{
+					"name": "Face Mask",
+					"callVideo": "I am a url",
+					"trueCall": "I am some representation of a call",
+					"falseCall1": "I am some representation of a call",
+					"falseCall2": "I am some representation of a call",
+					"explanationVideo": "I am a url",
+				}
+			]
+		},
+		{
+			"name": "Hockey 1",
+			"lessons": [
+				{
+					"name": "High-Sticking",
+					"callVideo": "I am a url",
+					"trueCall": "I am some representation of a call",
+					"falseCall1": "I am some representation of a call",
+					"falseCall2": "I am some representation of a call",
+					"explanationVideo": "I am a url",
+				},
+				{
+					"name": "Goaltender leaving the crease",
+					"callVideo": "I am a url",
 					"trueCall": "I am some representation of a call",
 					"falseCall1": "I am some representation of a call",
 					"falseCall2": "I am some representation of a call",
