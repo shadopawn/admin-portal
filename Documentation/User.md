@@ -52,8 +52,7 @@
 - Under the lesson pack name, click Edit name                                                 
 ![editName](images/React/editName.jpg)
 - You will be greeted with a textbox, submit button, and close button
-- Type in the new name
-
+- Type in the new name                                                              
 ![submitName](images/React/submitName.jpg)
 - Click submit
 - You have successfully changed the name of a lesson pack
@@ -64,8 +63,7 @@
 ![lessonNav](images/React/lessonNav.jpg)
 - Click “Edit” next to the lesson pack you would like to add a lesson pair to
 ![editPack](images/React/editPack2.jpg)
-- Under the lesson pack name, click “Add Lesson Pair”
-
+- Under the lesson pack name, click “Add Lesson Pair”                                  
 ![addLessonPair](images/React/addLessonPair.jpg)
 - You have successfully added a lesson pair
 
@@ -75,8 +73,7 @@
 ![lessonNav](images/React/lessonNav.jpg)
 - Click “Edit” next to the lesson pack you would like to delete a lesson pair from
 ![editPack](images/React/editPack2.jpg)
-- Next to the lesson pair you would like to delete, click “Delete”
-
+- Next to the lesson pair you would like to delete, click “Delete”                       
 ![deleteLessonPair](images/React/deleteLessonPair.jpg)
 - You have successfully deleted a lesson pair
 
@@ -86,8 +83,7 @@
 ![lessonNav](images/React/lessonNav.jpg)
 - Click “Edit” next to the lesson pack you would like to add/change a video for
 ![editPack](images/React/editPack2.jpg)
-- Click “Add video” next to the video you would like to add/change
-
+- Click “Add video” next to the video you would like to add/change                           
 ![addVideo](images/React/addCallVideo.jpg)
 - You will be greeted with all the video you have uploaded, see Uploading Videos for how to upload
 - Click the video name you would like to add
@@ -100,8 +96,7 @@
 - Click “Edit” next to the lesson pack you would like to add/change a call for
 ![editPack](images/React/editPack2.jpg)
 - Navigate to the call you want to change
-- In the textbox, input what the new call will be
-
+- In the textbox, input what the new call will be                              
 ![addCall](images/React/addCall.jpg)
 - You have successfully added/changed a call
 
@@ -114,8 +109,7 @@
 - OR
 - An alternative way is to click “Edit” next to the lesson pack you would like to upload to the database
 ![editPack](images/React/editPack2.jpg)
-- Under the lesson pack name, click “Publish”
-
+- Under the lesson pack name, click “Publish”                                       
 ![publishPack2](images/React/publishPack2.jpg)
 - You have successfully uploaded the lesson pack to the database
 
