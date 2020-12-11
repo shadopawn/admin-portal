@@ -49,8 +49,7 @@
 ![lessonNav](images/React/lessonNav.jpg)
 - Click “Edit” next to the lesson pack you would like to change the name of
 ![editPack](images/React/editPack2.jpg)
-- Under the lesson pack name, click Edit name
-
+- Under the lesson pack name, click Edit name                                                 
 ![editName](images/React/editName.jpg)
 - You will be greeted with a textbox, submit button, and close button
 - Type in the new name
