@@ -11,7 +11,7 @@
 ## Login
 - Click on “Login Page”
 
-![login](images/React/login.PNG)
+![login](images/React/loginNav.jpg)
 - Once here, you’ll see an input field for both a username and password. Enter both your Admin username and respective password.
 - Once you have the correct username and password input, click Log in to be taken to your previous page logged in as an Admin.
 
@@ -25,9 +25,9 @@
 ## Uploading Videos
 - Ensure you are logged in as an Admin. To see how, view the Login section.
 - Click on “Lessons Editor” 
-- Then click on upload videos near the bottom of the page
-
-![lesson](images/lesson.PNG)
+![lessonNav](images/React/lessonNav.jpg)
+- Then click on "Upload videos" near the bottom of the page
+![uploadVideos](images/React/uploadVideoButton.PNG)
 - You will be greeted with a progress bar and button name “Choose File”
 - Click on the “Choose File” button when you are ready to upload
 - You will be greeted with a file explorer for your browser
@@ -38,7 +38,9 @@
 ## Creating a new Lesson Pack
 - Ensure you are logged in as an Admin. To see how, view the Login section.
 - Click on “Lessons Editor”
+![uploadVideos](images/React/uploadVideoButton.PNG)
 - Click on “Create Lesson Pack”
+![createPack](images/React/createPack.jpg)
 - A new lesson pack will be added to the Lesson Pack List
 
 ## Editing a Lesson Pack: Changing the name
