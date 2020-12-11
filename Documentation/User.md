@@ -3,7 +3,7 @@
 
 ## Navigation
 - Use the navigation bar at the top of the application to view the different pages
-![nav](images/nav.PNG)
+![nav](images/React/navbar.PNG)
 - Click on “Lessons Editor” to be taken to the Editor where you will be able to build lessons
 - Click on “Analytics Dashboard” to be taken to the dashboard where you'll view analytics 
 - Click on “Login Page” to be taken to the page where you’ll be able to log in as an Admin
@@ -11,7 +11,7 @@
 ## Login
 - Click on “Login Page”
 
-![login](images/login.PNG)
+![login](images/React/login.PNG)
 - Once here, you’ll see an input field for both a username and password. Enter both your Admin username and respective password.
 - Once you have the correct username and password input, click Log in to be taken to your previous page logged in as an Admin.
 
@@ -20,11 +20,12 @@
 - You will noticed the navigation bar has changed the “Login Page” with a “Logout” link
 - Click the “Logout” navigation to logout
 
-![logout](images/logout.png)
+![logout](images/React/logoutNav.jpg)
 
 ## Uploading Videos
 - Ensure you are logged in as an Admin. To see how, view the Login section.
 - Click on “Lessons Editor” 
+- Then click on upload videos near the bottom of the page
 
 ![lesson](images/lesson.PNG)
 - You will be greeted with a progress bar and button name “Choose File”
@@ -32,6 +33,70 @@
 - You will be greeted with a file explorer for your browser
 - Choose the file you want to upload
 - The progress bar will upload and when it is at 100%, you have successfully uploaded the file
+- You have successfully uploaded a video
+
+## Creating a new Lesson Pack
+- Ensure you are logged in as an Admin. To see how, view the Login section.
+- Click on “Lessons Editor”
+- Click on “Create Lesson Pack”
+- A new lesson pack will be added to the Lesson Pack List
+
+## Editing a Lesson Pack: Changing the name
+- Ensure you are logged in as an Admin. To see how, view the Login section.
+- Click on “Lessons Editor”
+- Click “Edit” next to the lesson pack you would like to change the name of
+- Under the lesson pack name, click Edit name
+- You will be greeted with a textbox, submit button, and close button
+- Type in the new name
+- Click submit
+- You have successfully changed the name of a lesson pack
+
+## Editing a Lesson Pack: Adding a lesson pair
+- Ensure you are logged in as an Admin. To see how, view the Login section.
+- Click on “Lessons Editor”
+- Click “Edit” next to the lesson pack you would like to add a lesson pair to
+- Under the lesson pack name, click “Add Lesson Pair”
+- You have successfully added a lesson pair
+
+## Editing a Lesson Pack: Deleting a lesson pair
+- Ensure you are logged in as an Admin. To see how, view the Login section.
+- Click on “Lessons Editor”
+- Click “Edit” next to the lesson pack you would like to delete a lesson pair from
+- Next to the lesson pair you would like to delete, click “Delete”
+- You have successfully deleted a lesson pair
+
+## Editing a Lesson Pack: Adding a video to a lesson pair
+- Ensure you are logged in as an Admin. To see how, view the Login section.
+- Click on “Lessons Editor”
+- Click “Edit” next to the lesson pack you would like to add/change a video for
+- Click “Add video” next to the video you would like to add/change
+- You will be greeted with all the video you have uploaded, see Uploading Videos for how to upload
+- Click the video name you would like to add
+- You have successfully added/changed a video
+
+## Editing a Lesson Pack: Adding a call to a lesson pair
+- Ensure you are logged in as an Admin. To see how, view the Login section.
+- Click on “Lessons Editor”
+- Click “Edit” next to the lesson pack you would like to add/change a call for
+- Navigate to the call you want to change
+- In the textbox, input what the new call will be
+- You have successfully added/changed a call
+
+## Publishing a Lesson Pack
+- Ensure you are logged in as an Admin. To see how, view the Login section.
+- Click on “Lessons Editor”
+- Click “Publish” next to the lesson pack you would like to upload to the database
+- OR
+- An alternative way is to click “Edit” next to the lesson pack you would like to upload to the database
+- Under the lesson pack name, click “Publish”
+- You have successfully uploaded the lesson pack to the database
+
+## Deleting a Lesson Pack
+- Ensure you are logged in as an Admin. To see how, view the Login section.
+- Click on “Lessons Editor”
+- Click “Delete” next to the lesson pack you would like to delete
+- You will be greeted with a confirmation, click “OK” if you still want to delete it 
+- You have successfully deleted the lesson pack
 
 
 # RefReps User Manual
