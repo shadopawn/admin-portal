@@ -8,6 +8,7 @@
 - The src folder contains JavaScript, HTML, and CSS files used by the React Framework
 - The \__test__ folder holds the test for each component
 - The component folder holds all the components used with app and each other
+- The context folder holds all the context used within the app
 - The css folder contains the CSS files used
 - The public folder holds the images used throughout the project
 
