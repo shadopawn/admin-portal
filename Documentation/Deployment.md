@@ -3,7 +3,7 @@
 - This documentation is used to explain how to deploy and maintain a running system of our project
 
 ## Folder Structure
-![folder](images/folder.PNG)
+![folder](images/React/folder.jpg)
 - The main folder where most commands will be done is the admin-portal-web-app
 - The src folder contains JavaScript, HTML, and CSS files used by the React Framework
 - The \__test__ folder holds the test for each component
