@@ -27,7 +27,7 @@
 - Click on “Lessons Editor” 
 ![lessonNav](images/React/lessonNav.jpg)
 - Then click on "Upload videos" near the bottom of the page
-![uploadVideos](images/React/uploadVideoButton.PNG)
+![uploadVideos](images/React/uploadVideosButton.PNG)
 - You will be greeted with a progress bar and button name “Choose File”
 - Click on the “Choose File” button when you are ready to upload
 - You will be greeted with a file explorer for your browser
@@ -38,7 +38,7 @@
 ## Creating a new Lesson Pack
 - Ensure you are logged in as an Admin. To see how, view the Login section.
 - Click on “Lessons Editor”
-![uploadVideos](images/React/uploadVideoButton.PNG)
+![lessonNav](images/React/lessonNav.jpg)
 - Click on “Create Lesson Pack”
 ![createPack](images/React/createPack.jpg)
 - A new lesson pack will be added to the Lesson Pack List
@@ -46,32 +46,45 @@
 ## Editing a Lesson Pack: Changing the name
 - Ensure you are logged in as an Admin. To see how, view the Login section.
 - Click on “Lessons Editor”
+![lessonNav](images/React/lessonNav.jpg)
 - Click “Edit” next to the lesson pack you would like to change the name of
+![editPack](images/React/editPack.jpg)
 - Under the lesson pack name, click Edit name
+![editName](images/React/editName.jpg)
 - You will be greeted with a textbox, submit button, and close button
 - Type in the new name
+![submitName](images/React/submitName.jpg)
 - Click submit
 - You have successfully changed the name of a lesson pack
 
 ## Editing a Lesson Pack: Adding a lesson pair
 - Ensure you are logged in as an Admin. To see how, view the Login section.
 - Click on “Lessons Editor”
+![lessonNav](images/React/lessonNav.jpg)
 - Click “Edit” next to the lesson pack you would like to add a lesson pair to
+![editPack](images/React/editPack.jpg)
 - Under the lesson pack name, click “Add Lesson Pair”
+![addLessonPair](images/React/addLessonPair.jpg)
 - You have successfully added a lesson pair
 
 ## Editing a Lesson Pack: Deleting a lesson pair
 - Ensure you are logged in as an Admin. To see how, view the Login section.
 - Click on “Lessons Editor”
+![lessonNav](images/React/lessonNav.jpg)
 - Click “Edit” next to the lesson pack you would like to delete a lesson pair from
+![editPack](images/React/editPack.jpg)
 - Next to the lesson pair you would like to delete, click “Delete”
+![deleteLessonPair](images/React/deleteLessonPair.jpg)
 - You have successfully deleted a lesson pair
 
 ## Editing a Lesson Pack: Adding a video to a lesson pair
 - Ensure you are logged in as an Admin. To see how, view the Login section.
 - Click on “Lessons Editor”
+![lessonNav](images/React/lessonNav.jpg)
 - Click “Edit” next to the lesson pack you would like to add/change a video for
+![editPack](images/React/editPack.jpg)
 - Click “Add video” next to the video you would like to add/change
+![addVideo](images/React/addCallVideo.jpg)
 - You will be greeted with all the video you have uploaded, see Uploading Videos for how to upload
 - Click the video name you would like to add
 - You have successfully added/changed a video
@@ -79,24 +92,33 @@
 ## Editing a Lesson Pack: Adding a call to a lesson pair
 - Ensure you are logged in as an Admin. To see how, view the Login section.
 - Click on “Lessons Editor”
+![lessonNav](images/React/lessonNav.jpg)
 - Click “Edit” next to the lesson pack you would like to add/change a call for
+![editPack](images/React/editPack.jpg)
 - Navigate to the call you want to change
 - In the textbox, input what the new call will be
+![addCall](images/React/addCall.jpg)
 - You have successfully added/changed a call
 
 ## Publishing a Lesson Pack
 - Ensure you are logged in as an Admin. To see how, view the Login section.
 - Click on “Lessons Editor”
+![lessonNav](images/React/lessonNav.jpg)
 - Click “Publish” next to the lesson pack you would like to upload to the database
+![publishPack](images/React/publishPack.jpg)
 - OR
 - An alternative way is to click “Edit” next to the lesson pack you would like to upload to the database
+![editPack](images/React/editPack.jpg)
 - Under the lesson pack name, click “Publish”
+![publishPack2](images/React/publishPack2.jpg)
 - You have successfully uploaded the lesson pack to the database
 
 ## Deleting a Lesson Pack
 - Ensure you are logged in as an Admin. To see how, view the Login section.
 - Click on “Lessons Editor”
+![lessonNav](images/React/lessonNav.jpg)
 - Click “Delete” next to the lesson pack you would like to delete
+![deletePack](images/React/deletePack.jpg)
 - You will be greeted with a confirmation, click “OK” if you still want to delete it 
 - You have successfully deleted the lesson pack
 
