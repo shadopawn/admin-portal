@@ -53,6 +53,9 @@
 ![testsPass](images/testsPass.PNG)
 - When a test fails, it will change the green pass to a red fail. It will then describe the failure above
 
+## package.json
+- This contains all the dependencies used with in the project. They can be installed by running "npm install" which was explained earlier 
+
 
 # Replicating RefReps Environment 
 ## Installing Prerequisites
