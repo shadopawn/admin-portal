@@ -73,7 +73,7 @@
 ## Clone Repos
 
 - Clone this repository first via the command below:
-  - `git clone https://github.com/robbietaco/ref-reps.git`
+  - `git clone https://github.com/shadopawn/ref-reps.git`
 
 ## Opening RefReps with the Unity Hub
 
