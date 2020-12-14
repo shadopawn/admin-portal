@@ -137,3 +137,10 @@
 
 ![DownloadLessonWindow](images/DownloadLessonWindow.png)
 - The test video should now be located at “Assets/VideoFiles/test.mp4” in the project directory.
+
+- To view video lessons run the unity application
+- Select a video from the video list presented
+![UnityVideoList](images/UnityVideoList.PNG)
+
+- The video will play after selected
+![UnityPlayingVideo](images/UnityPlayingVideo.PNG)
