@@ -138,6 +138,7 @@
 ![uploadVideos](images/React/uploadVideosButton.PNG)
 - You will be greeted with a progress bar and button name “Choose File”
 - Click on the “Choose File” button when you are ready to upload
+![chooseFile](images/React/chooseFile.jpg)
 - You will be greeted with a file explorer for your browser
 - Choose the file you want to upload
 - The progress bar will upload and when it is at 100%, you have successfully uploaded the file
@@ -158,7 +159,8 @@
 - Click the Upload Videos button                                                                      
 ![uploadVideos](images/React/uploadAdd.jpg)
 - You will be greeted with a progress bar and button name “Choose File”
-- Click on the “Choose File” button when you are ready to upload
+- Click on the “Choose File” button when you are ready to upload                                                    
+![chooseFile](images/React/chooseFile.jpg)
 - You will be greeted with a file explorer for your browser
 - Choose the file you want to upload
 - The progress bar will upload and when it is at 100%, you have successfully uploaded the file
