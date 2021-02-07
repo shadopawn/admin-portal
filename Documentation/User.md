@@ -88,7 +88,7 @@
 ![pairPreview](images/React/pairPreview.jpg)
 - Click “Add video” next to the video you would like to add/change                           
 ![addVideo](images/React/addCallVideo.jpg)
-- You will be greeted with all the video you have uploaded, see Uploading Videos for how to upload
+- You will be greeted with all the videos uploaded to the database, see Uploading Videos for how to upload
 - Click the video name you would like to add
 - You have successfully added/changed a video
 
@@ -153,6 +153,9 @@
 - A new section will open up to the left, displaying the lesson pairs attributes
 ![pairPreview](images/React/pairPreview.jpg)
 - Click “Add video” next to the video you would like to add/change                                               
+![addVideo](images/React/addCallVideo.jpg)
+- You will be greeted with all the videos uploaded to the database, see Uploading Videos for how to upload
+- Click the Upload Videos button
 ![uploadVideos](images/React/uploadAdd.jpg)
 - You will be greeted with a progress bar and button name “Choose File”
 - Click on the “Choose File” button when you are ready to upload
