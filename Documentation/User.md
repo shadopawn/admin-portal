@@ -74,7 +74,7 @@
 - Click “Edit” next to the lesson pack you would like to delete a lesson pair from
 ![editPack](images/React/editPack2.jpg)
 - Next to the lesson pair you would like to delete, click “Delete”                       
-![deleteLessonPair](images/React/deleteLessonPair.jpg)
+![deleteLessonPair](images/React/deletePair.jpg)
 - You have successfully deleted a lesson pair
 
 ## Editing a Lesson Pack: Adding a video to a lesson pair
