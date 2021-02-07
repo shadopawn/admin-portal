@@ -77,12 +77,28 @@
 ![deleteLessonPair](images/React/deletePair.jpg)
 - You have successfully deleted a lesson pair
 
+## Editing a Lesson Pack: Selecting a lesson pair
+- Ensure you are logged in as an Admin. To see how, view the Login section.
+- Click on “Lessons Editor”
+![lessonNav](images/React/lessonNav.jpg)
+- Click “Edit” next to the lesson pack you would like to delete a lesson pair from
+![editPack](images/React/editPack2.jpg)
+- Click on the lesson pair you would like to edit                     
+![selectingPair](images/React/selectingPair.jpg)
+- A new section will open up to the left, displaying the lesson pairs attributes
+![pairPreview](images/React/pairPreview.jpg)
+- You have successfully selected a lesson pair
+
 ## Editing a Lesson Pack: Adding a video to a lesson pair
 - Ensure you are logged in as an Admin. To see how, view the Login section.
 - Click on “Lessons Editor”
 ![lessonNav](images/React/lessonNav.jpg)
 - Click “Edit” next to the lesson pack you would like to add/change a video for
 ![editPack](images/React/editPack2.jpg)
+- Click on the lesson pair you would like to edit                     
+![selectingPair](images/React/selectingPair.jpg)
+- A new section will open up to the left, displaying the lesson pairs attributes
+![pairPreview](images/React/pairPreview.jpg)
 - Click “Add video” next to the video you would like to add/change                           
 ![addVideo](images/React/addCallVideo.jpg)
 - You will be greeted with all the video you have uploaded, see Uploading Videos for how to upload
@@ -95,6 +111,10 @@
 ![lessonNav](images/React/lessonNav.jpg)
 - Click “Edit” next to the lesson pack you would like to add/change a call for
 ![editPack](images/React/editPack2.jpg)
+- Click on the lesson pair you would like to edit                     
+![selectingPair](images/React/selectingPair.jpg)
+- A new section will open up to the left, displaying the lesson pairs attributes
+![pairPreview](images/React/pairPreview.jpg)
 - Click “Add Call” next to the call you would like to add/change                          
 ![addCall](images/React/addNewCall.jpg)
 - You will be greeted with many calls uploaded to the database
