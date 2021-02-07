@@ -22,19 +22,6 @@
 
 ![logout](images/React/logoutNav.jpg)
 
-## Uploading Videos
-- Ensure you are logged in as an Admin. To see how, view the Login section.
-- Click on “Lessons Editor” 
-![lessonNav](images/React/lessonNav.jpg)
-- Then click on "Upload videos" near the bottom of the page
-![uploadVideos](images/React/uploadVideosButton.PNG)
-- You will be greeted with a progress bar and button name “Choose File”
-- Click on the “Choose File” button when you are ready to upload
-- You will be greeted with a file explorer for your browser
-- Choose the file you want to upload
-- The progress bar will upload and when it is at 100%, you have successfully uploaded the file
-- You have successfully uploaded a video
-
 ## Creating a new Lesson Pack
 - Ensure you are logged in as an Admin. To see how, view the Login section.
 - Click on “Lessons Editor”
@@ -121,7 +108,6 @@
 - Click the call name you would like to add
 - You have successfully added/changed a call
 
-
 ## Publishing a Lesson Pack
 - Ensure you are logged in as an Admin. To see how, view the Login section.
 - Click on “Lessons Editor”
@@ -143,6 +129,37 @@
 ![deletePack](images/React/deletePack.jpg)
 - You will be greeted with a confirmation, click “OK” if you still want to delete it 
 - You have successfully deleted the lesson pack
+
+## Uploading Videos
+- Ensure you are logged in as an Admin. To see how, view the Login section.
+- Click on “Lessons Editor” 
+![lessonNav](images/React/lessonNav.jpg)
+- Then click on "Upload videos" near the bottom of the page
+![uploadVideos](images/React/uploadVideosButton.PNG)
+- You will be greeted with a progress bar and button name “Choose File”
+- Click on the “Choose File” button when you are ready to upload
+- You will be greeted with a file explorer for your browser
+- Choose the file you want to upload
+- The progress bar will upload and when it is at 100%, you have successfully uploaded the file
+- You have successfully uploaded a video
+- OR
+- Ensure you are logged in as an Admin. To see how, view the Login section.
+- Click on “Lessons Editor”
+![lessonNav](images/React/lessonNav.jpg)
+- Click “Edit” next to the lesson pack you would like to add/change a video for
+![editPack](images/React/editPack2.jpg)
+- Click on the lesson pair you would like to edit                     
+![selectingPair](images/React/selectingPair.jpg)
+- A new section will open up to the left, displaying the lesson pairs attributes
+![pairPreview](images/React/pairPreview.jpg)
+- Click “Add video” next to the video you would like to add/change                                               
+![uploadVideos](images/React/uploadAdd.jpg)
+- You will be greeted with a progress bar and button name “Choose File”
+- Click on the “Choose File” button when you are ready to upload
+- You will be greeted with a file explorer for your browser
+- Choose the file you want to upload
+- The progress bar will upload and when it is at 100%, you have successfully uploaded the file
+- You have successfully uploaded a video
 
 
 # RefReps User Manual
