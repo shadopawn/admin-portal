@@ -95,10 +95,12 @@
 ![lessonNav](images/React/lessonNav.jpg)
 - Click “Edit” next to the lesson pack you would like to add/change a call for
 ![editPack](images/React/editPack2.jpg)
-- Navigate to the call you want to change
-- In the textbox, input what the new call will be                              
-![addCall](images/React/addCall.jpg)
+- Click “Add Call” next to the call you would like to add/change                          
+![addCall](images/React/addNewCall.jpg)
+- You will be greeted with many calls uploaded to the database
+- Click the call name you would like to add
 - You have successfully added/changed a call
+
 
 ## Publishing a Lesson Pack
 - Ensure you are logged in as an Admin. To see how, view the Login section.
