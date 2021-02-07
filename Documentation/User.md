@@ -137,7 +137,7 @@
 - Then click on "Upload videos" near the bottom of the page
 ![uploadVideos](images/React/uploadVideosButton.PNG)
 - You will be greeted with a progress bar and button name “Choose File”
-- Click on the “Choose File” button when you are ready to upload
+- Click on the “Choose File” button when you are ready to upload                                     
 ![chooseFile](images/React/chooseFile.jpg)
 - You will be greeted with a file explorer for your browser
 - Choose the file you want to upload
