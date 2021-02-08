@@ -1,5 +1,5 @@
 # Admin Portal User Manual
-- This documentation is used to explain how a user would interact with the Admin Portal and the RefReps Application
+This documentation is used to explain how a user would interact with the Admin Portal and the RefReps Application
 
 ## Navigation
 - Use the navigation bar at the top of the application to view the different pages
