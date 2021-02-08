@@ -30,8 +30,8 @@ RefReps
 
 ## **Code Repositories**
 
-- [Unity Application](https://github.com/shadopawn/ref-reps)
-- [Web Application](https://github.com/shadopawn/admin-portal-web-app)
+- [Unity Application Repository](https://github.com/shadopawn/ref-reps)
+- [Web Application Repository](https://github.com/shadopawn/admin-portal-web-app)
 - [Web Application v3.0.0](https://github.com/shadopawn/admin-portal-web-app/releases/tag/v3.0.0)
 
 
