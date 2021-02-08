@@ -44,6 +44,13 @@ This documentation is used to explain how to deploy and maintain a running syste
 - It will ask if you want to "Terminate batch job (Y/N)?"
 - Press the "Y" key to stop the service
 
+## Errors
+
+- Most errors will be written to the console log when occured
+- Critical errors from the React app will be logged to the "debug.log" file found in the root of the directory of the admin-portal-web-app
+- The most critial errors would be from if firebase fails
+- Firebase errors could be found in "firestore-debug.log" file found in the root of the directory of the admin-portal-web-app
+
 ## Build Deployment to Github pages site
 
 - Open a terminal and navigate to the admin-portal-web-app folder that was cloned
