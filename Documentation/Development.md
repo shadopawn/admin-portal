@@ -1,6 +1,6 @@
 # Development Environment Manual Admin Portal
 
-- This documentation is used to explain how to replicate a development environment of our project
+This documentation is used to explain how to replicate a development environment of our project
 
 ## Technology Stack
 ### Admin Portal
