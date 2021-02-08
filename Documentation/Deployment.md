@@ -1,6 +1,6 @@
 # Deployment Manual
 
-- This documentation is used to explain how to deploy and maintain a running system of our project
+This documentation is used to explain how to deploy and maintain a running system of our project
 
 ## Folder Structure
 ![folder](images/React/folder.jpg)
