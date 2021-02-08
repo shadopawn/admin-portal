@@ -37,6 +37,13 @@ This documentation is used to explain how to deploy and maintain a running syste
 - Open a terminal and navigate to the admin-portal-web-app folder that was cloned
 - To start a locally hosted build of the application, run the command “npm run start”
 
+## Stopping Admin Portal Application
+
+- Navigate to the terminal currenlty hosting the server for the admin-portal-web-app
+- Within the terminal, press the "Ctrl" key and the "C" key
+- It will ask if you want to "Terminate batch job (Y/N)?"
+- Press the "Y" key to stop the service
+
 ## Build Deployment to Github pages site
 
 - Open a terminal and navigate to the admin-portal-web-app folder that was cloned
