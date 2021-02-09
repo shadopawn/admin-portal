@@ -185,6 +185,7 @@ This documentation is used to explain how a user would interact with the Admin P
 <img src="images/UnityCallVideo.png" width="600">
 
 - After selecting a lesson, watch the call video.
+- Double click ">>" to skip to the next lesson.
 - When prompted, double click on the correct call from the 3 options at the bottom.
 <img src="images/UnityCorrectCall.png" width="600">
 
