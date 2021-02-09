@@ -168,23 +168,16 @@ This documentation is used to explain how a user would interact with the Admin P
 
 
 # RefReps User Manual
-## Download Video
-- Open the project using the unity editor.
-- Once the editor is open, find the navigation bar at the top.
-- Click on “tools”.
+## Select Lesson Pack
+- Navigate to desired lesson pack by scrolling or double clicking up or down arrows.
+- Double click on the lesson pack.
 
-![tools](images/tools.png)
-- Click “Download Lesson Videos”.
+## Select Lesson / Play Call Video
+- All lessons start with a call video.
+- After selecting a lesson pack, navigate videos on the right by scrolling or double clicking the up or down arrows.
+- Double click on the video, or click the button at the bottom right ("Watch Video 1") to view the highlighted video
 
-![DownloadLessonVideos](images/DownloadLessonVideos.png)
-- Click “Download”.
-
-![DownloadLessonWindow](images/DownloadLessonWindow.png)
-- The test video should now be located at “Assets/VideoFiles/test.mp4” in the project directory.
-
-- To view video lessons run the unity application
-- Select a video from the video list presented
-![UnityVideoList](images/UnityVideoList.PNG)
-
-- The video will play after selected
-![UnityPlayingVideo](images/UnityPlayingVideo.PNG)
+## Make a Call
+- After selecting a lesson, watch the call video.
+- When prompted, double click on the correct call from the 3 options at the bottom.
+- Watch the analysis video or return to the lesson pack selection screen with either the "See Analysis" or "Exit Lesson" button respectively.
