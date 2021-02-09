@@ -190,3 +190,13 @@ This documentation is used to explain how a user would interact with the Admin P
 <img src="images/UnityCorrectCall.png" width="600">
 
 - Watch the analysis video or return to the lesson pack selection screen with either the "See Analysis" or "Exit Lesson" button respectively.
+
+## Watch Analysis Video
+<img src="images/UnityIncorrectCall.png" width="600">
+
+- After making a call, double click "See Analysis".
+
+<img src="images/UnityAnalysisVideo.png" width="600">
+<img src="images/UnityAfterAnalysis.png" width="600">
+
+- After watching the analysis video, return to the lesson pack selection screen or view the lesson again by double clicking the "Exit to Main" or "View Lesson Again" button respectively.
