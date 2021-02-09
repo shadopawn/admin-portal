@@ -169,15 +169,23 @@ This documentation is used to explain how a user would interact with the Admin P
 
 # RefReps User Manual
 ## Select Lesson Pack
+<img src="images/UnityLessonPackSelection.png" width="600">
+
 - Navigate to desired lesson pack by scrolling or double clicking up or down arrows.
 - Double click on the lesson pack.
 
 ## Select Lesson / Play Call Video
+<img src="images/UnityVideoSelection.png" width="600">
+
 - All lessons start with a call video.
 - After selecting a lesson pack, navigate videos on the right by scrolling or double clicking the up or down arrows.
 - Double click on the video, or click the button at the bottom right ("Watch Video 1") to view the highlighted video
 
 ## Make a Call
+<img src="images/UnityCallVideo.png" width="600">
+
 - After selecting a lesson, watch the call video.
 - When prompted, double click on the correct call from the 3 options at the bottom.
+<img src="images/UnityCorrectCall.png" width="600">
+
 - Watch the analysis video or return to the lesson pack selection screen with either the "See Analysis" or "Exit Lesson" button respectively.
