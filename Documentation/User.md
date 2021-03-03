@@ -63,7 +63,7 @@ This documentation is used to explain how a user would interact with the Admin P
 - Click on the lesson pair you would like to edit                     
 ![selectPair](images/React/selectPair.jpg)
 - A new section will open up to the left, displaying the lesson pairs attributes
-![pairPreview](images/React/select.jpg)
+![pairSection](images/React/pairSection.jpg)
 - You have successfully selected a lesson pair
 
 ## Editing a Lesson Pack: Deleting a lesson pair
@@ -75,9 +75,9 @@ This documentation is used to explain how a user would interact with the Admin P
 - Click on the lesson pair you would like to edit                     
 ![selectPair](images/React/selectPair.jpg)
 - A new section will open up to the left, displaying the lesson pairs attributes
-![pairPreview](images/React/select.jpg)
+![pairSection](images/React/pairSection.jpg)
 - Click on the Delete button next to the Lesson Pair name in the new section                     
-![deleteLessonPair](images/React/deletePair.jpg)
+![deleteLessonPair](images/React/deleteLessonPair.jpg)
 - You have successfully deleted a lesson pair
 
 ## Editing a Lesson Pack: Chaning a Lesson Pair Name
@@ -101,11 +101,11 @@ This documentation is used to explain how a user would interact with the Admin P
 - Click “Edit” next to the lesson pack you would like to add/change a video for
 ![editPack](images/React/editPack2.jpg)
 - Click on the lesson pair you would like to edit                     
-![selectingPair](images/React/selectingPair.jpg)
+![selectPair](images/React/selectPair.jpg)
 - A new section will open up to the left, displaying the lesson pairs attributes
-![pairPreview](images/React/pairPreview.jpg)
+![pairSection](images/React/pairSection.jpg)
 - Click “Add video” next to the video you would like to add/change                           
-![addVideo](images/React/addCallVideo.jpg)
+![addVideo](images/React/videoSelect.jpg)
 - You will be greeted with all the videos uploaded to the database, see Uploading Videos for how to upload
 - Click the video name you would like to add
 - You have successfully added/changed a video
@@ -117,11 +117,11 @@ This documentation is used to explain how a user would interact with the Admin P
 - Click “Edit” next to the lesson pack you would like to add/change a call for
 ![editPack](images/React/editPack2.jpg)
 - Click on the lesson pair you would like to edit                     
-![selectingPair](images/React/selectingPair.jpg)
+![selectPair](images/React/selectPair.jpg)
 - A new section will open up to the left, displaying the lesson pairs attributes
-![pairPreview](images/React/pairPreview.jpg)
+![pairSection](images/React/pairSection.jpg)
 - Click “Add Call” next to the call you would like to add/change                          
-![addCall](images/React/addNewCall.jpg)
+![addCall](images/React/callSelect.jpg)
 - You will be greeted with many calls uploaded to the database
 - Click the call name you would like to add
 - You have successfully added/changed a call
