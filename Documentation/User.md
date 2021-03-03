@@ -54,16 +54,6 @@ This documentation is used to explain how a user would interact with the Admin P
 ![addLessonPair](images/React/addLessonPair.jpg)
 - You have successfully added a lesson pair
 
-## Editing a Lesson Pack: Deleting a lesson pair
-- Ensure you are logged in as an Admin. To see how, view the Login section.
-- Click on “Lessons Editor”
-![lessonNav](images/React/lessonNav.jpg)
-- Click “Edit” next to the lesson pack you would like to delete a lesson pair from
-![editPack](images/React/editPack2.jpg)
-- Next to the lesson pair you would like to delete, click “Delete”                       
-![deleteLessonPair](images/React/deletePair.jpg)
-- You have successfully deleted a lesson pair
-
 ## Editing a Lesson Pack: Selecting a lesson pair
 - Ensure you are logged in as an Admin. To see how, view the Login section.
 - Click on “Lessons Editor”
@@ -71,10 +61,24 @@ This documentation is used to explain how a user would interact with the Admin P
 - Click “Edit” next to the lesson pack you would like to delete a lesson pair from
 ![editPack](images/React/editPack2.jpg)
 - Click on the lesson pair you would like to edit                     
-![selectingPair](images/React/selectingPair.jpg)
+![selectPair](images/React/selectPair.jpg)
 - A new section will open up to the left, displaying the lesson pairs attributes
-![pairPreview](images/React/pairPreview.jpg)
+![pairPreview](images/React/select.jpg)
 - You have successfully selected a lesson pair
+
+## Editing a Lesson Pack: Deleting a lesson pair
+- Ensure you are logged in as an Admin. To see how, view the Login section.
+- Click on “Lessons Editor”
+![lessonNav](images/React/lessonNav.jpg)
+- Click “Edit” next to the lesson pack you would like to delete a lesson pair from
+![editPack](images/React/editPack2.jpg)
+- Click on the lesson pair you would like to edit                     
+![selectPair](images/React/selectPair.jpg)
+- A new section will open up to the left, displaying the lesson pairs attributes
+![pairPreview](images/React/select.jpg)
+- Click on the Delete button next to the Lesson Pair name in the new section                     
+![deleteLessonPair](images/React/deletePair.jpg)
+- You have successfully deleted a lesson pair
 
 ## Editing a Lesson Pack: Chaning a Lesson Pair Name
 - Ensure you are logged in as an Admin. To see how, view the Login section.
