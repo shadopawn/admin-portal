@@ -80,18 +80,18 @@ This documentation is used to explain how a user would interact with the Admin P
 ![deleteLessonPair](images/React/deleteLessonPair.jpg)
 - You have successfully deleted a lesson pair
 
-## Editing a Lesson Pack: Chaning a Lesson Pair Name
+## Editing a Lesson Pack: Changing a Lesson Pair Name
 - Ensure you are logged in as an Admin. To see how, view the Login section.
 - Click on “Lessons Editor”
 ![lessonNav](images/React/lessonNav.jpg)
 - Click “Edit” next to the lesson pack you would like to delete a lesson pair from
 ![editPack](images/React/editPack2.jpg)
 - Click on the lesson pair you would like to edit                     
-![selectingPair](images/React/selectingPair.jpg)
+![selectPair](images/React/selectPair.jpg)
 - A new section will open up to the left, displaying the lesson pairs attributes
-![pairPreview](images/React/pairPreview.jpg)
+![pairSection](images/React/pairSection.jpg)
 - Click on the Edit Name button next to the Lesson Pair name in the new section
-![pairPreview](images/React/pairPreview.jpg)
+![editNamePair](images/React/editNamePair.jpg)
 - You have successfully changed a lesson pair name
 
 ## Editing a Lesson Pack: Adding a video to a lesson pair
@@ -168,11 +168,11 @@ This documentation is used to explain how a user would interact with the Admin P
 - Click “Edit” next to the lesson pack you would like to add/change a video for
 ![editPack](images/React/editPack2.jpg)
 - Click on the lesson pair you would like to edit                     
-![selectingPair](images/React/selectingPair.jpg)
+![selectPair](images/React/selectPair.jpg)
 - A new section will open up to the left, displaying the lesson pairs attributes
-![pairPreview](images/React/pairPreview.jpg)
+![pairSection](images/React/pairSection.jpg)
 - Click “Add video” next to the video you would like to add/change                                               
-![addVideo](images/React/addCallVideo.jpg)
+![videoSelect](images/React/videoSelect.jpg)
 - You will be greeted with all the videos uploaded to the database, see Uploading Videos for how to upload
 - Click the Upload Videos button                                                                      
 ![uploadVideos](images/React/uploadAdd.jpg)
