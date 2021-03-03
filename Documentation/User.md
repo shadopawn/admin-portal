@@ -76,6 +76,20 @@ This documentation is used to explain how a user would interact with the Admin P
 ![pairPreview](images/React/pairPreview.jpg)
 - You have successfully selected a lesson pair
 
+## Editing a Lesson Pack: Chaning a Lesson Pair Name
+- Ensure you are logged in as an Admin. To see how, view the Login section.
+- Click on “Lessons Editor”
+![lessonNav](images/React/lessonNav.jpg)
+- Click “Edit” next to the lesson pack you would like to delete a lesson pair from
+![editPack](images/React/editPack2.jpg)
+- Click on the lesson pair you would like to edit                     
+![selectingPair](images/React/selectingPair.jpg)
+- A new section will open up to the left, displaying the lesson pairs attributes
+![pairPreview](images/React/pairPreview.jpg)
+- Click on the Edit Name button next to the Lesson Pair name in the new section
+![pairPreview](images/React/pairPreview.jpg)
+- You have successfully changed a lesson pair name
+
 ## Editing a Lesson Pack: Adding a video to a lesson pair
 - Ensure you are logged in as an Admin. To see how, view the Login section.
 - Click on “Lessons Editor”
