@@ -193,9 +193,10 @@ This documentation is used to explain how a user would interact with the Admin P
 - Double click on the lesson pack.
 
 ## Select Lesson / Play Call Video
-<img src="images/UnityVideoSelection.png" width="600">
+<img src="images/UnityCompleteLesson.png" width="600">
 
 - All lessons start with a call video.
+- A video's complete/incomplete status is shown below that video.
 - After selecting a lesson pack, navigate videos on the right by scrolling or double clicking the up or down arrows.
 - Double click on the video, or click the button at the bottom right ("Watch Video 1") to view the highlighted video.
 
