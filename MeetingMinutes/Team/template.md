@@ -1,4 +1,5 @@
-# Week of 9/30/2019 - 10/6/2019
+# Meeting Template
+# Week of mm/dd/yyyy - mm/dd/yyyy
 
 ## Meeting Start Time
 
