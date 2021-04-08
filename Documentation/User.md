@@ -61,7 +61,7 @@ This documentation is used to explain how a user would interact with the Admin P
 - Click “Edit” next to the lesson pack you would like to delete a lesson pair from
 ![editPack](images/React/editPack2.jpg)
 - Click on the lesson pair you would like to edit                     
-![selectPair](images/React/selectPair.jpg)
+![selectPair](images/React/PairPreview.PNG)
 - A new section will open up to the left, displaying the lesson pairs attributes
 ![pairSection](images/React/pairSection.jpg)
 - You have successfully selected a lesson pair
@@ -75,7 +75,7 @@ This documentation is used to explain how a user would interact with the Admin P
 - Click on the lesson pair you would like to edit                     
 ![selectPair](images/React/selectPair.jpg)
 - A new section will open up to the left, displaying the lesson pairs attributes
-![pairSection](images/React/pairSection.jpg)
+![pairSection](images/React/PairPreview.PNG)
 - Click on the Delete button next to the Lesson Pair name in the new section                     
 ![deleteLessonPair](images/React/deleteLessonPair.jpg)
 - You have successfully deleted a lesson pair
@@ -104,7 +104,7 @@ This documentation is used to explain how a user would interact with the Admin P
 ![selectPair](images/React/selectPair.jpg)
 - A new section will open up to the left, displaying the lesson pairs attributes
 ![pairSection](images/React/PairPreview.PNG)
-- Click “Add video” next to the video you would like to add/change                           
+- Click “Add video” next to the video you would like to add/change                                     
 ![addVideo](images/React/videoSelect.jpg)
 - You will be greeted with all the videos uploaded to the database, see Uploading Videos for how to upload
 - Click the video name you would like to add
