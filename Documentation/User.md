@@ -89,7 +89,7 @@ This documentation is used to explain how a user would interact with the Admin P
 - Click on the lesson pair you would like to edit                     
 ![selectPair](images/React/selectPair.jpg)
 - A new section will open up to the left, displaying the lesson pairs attributes
-![pairSection](images/React/pairSection.jpg)
+![pairSection](images/React/PairPreview.PNG)
 - Click on the Edit Name button next to the Lesson Pair name in the new section
 ![editNamePair](images/React/editNamePair.jpg)
 - You have successfully changed a lesson pair name
@@ -103,7 +103,7 @@ This documentation is used to explain how a user would interact with the Admin P
 - Click on the lesson pair you would like to edit                     
 ![selectPair](images/React/selectPair.jpg)
 - A new section will open up to the left, displaying the lesson pairs attributes
-![pairSection](images/React/pairSection.jpg)
+![pairSection](images/React/PairPreview.PNG)
 - Click “Add video” next to the video you would like to add/change                           
 ![addVideo](images/React/videoSelect.jpg)
 - You will be greeted with all the videos uploaded to the database, see Uploading Videos for how to upload
@@ -119,7 +119,7 @@ This documentation is used to explain how a user would interact with the Admin P
 - Click on the lesson pair you would like to edit                     
 ![selectPair](images/React/selectPair.jpg)
 - A new section will open up to the left, displaying the lesson pairs attributes
-![pairSection](images/React/pairSection.jpg)
+![pairSection](images/React/PairPreview.PNG)
 - Click “Add Call” next to the call you would like to add/change                          
 ![addCall](images/React/callSelect.jpg)
 - You will be greeted with many calls uploaded to the database
@@ -170,7 +170,7 @@ This documentation is used to explain how a user would interact with the Admin P
 - Click on the lesson pair you would like to edit                     
 ![selectPair](images/React/selectPair.jpg)
 - A new section will open up to the left, displaying the lesson pairs attributes
-![pairSection](images/React/pairSection.jpg)
+![pairSection](images/React/PairPreview.PNG)
 - Click “Add video” next to the video you would like to add/change                                               
 ![videoSelect](images/React/videoSelect.jpg)
 - You will be greeted with all the videos uploaded to the database, see Uploading Videos for how to upload
