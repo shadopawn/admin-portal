@@ -219,3 +219,8 @@ This documentation is used to explain how a user would interact with the Admin P
 <img src="images/UnityAfterAnalysis.png" width="600">
 
 - After watching the analysis video, return to the lesson pack selection screen or view the lesson again by double clicking the "Exit to Main" or "View Lesson Again" button respectively.
+
+## View Achievements
+<img src="images/UnityTitleScreen.png" width="600">
+
+- Click "Achievements" on the title screen.
