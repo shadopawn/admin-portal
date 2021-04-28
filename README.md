@@ -37,7 +37,7 @@ RefReps
 - [Web Application v3.0.0](https://github.com/shadopawn/admin-portal-web-app/releases/tag/v3.0.0)
 - [Web Application v4.0.0](https://github.com/shadopawn/admin-portal-web-app/releases/tag/v4.0.0)
 - [Web Application v5.0.0](https://github.com/shadopawn/admin-portal-web-app/releases/tag/v5.0.0)
-- [Applications v6.0.0](https://github.com/shadopawn/admin-portal/releases/tag/6.0.0)
+- [Applications v6.0.0](https://github.com/shadopawn/admin-portal/releases/tag/v6.0.0)
 
 
 
